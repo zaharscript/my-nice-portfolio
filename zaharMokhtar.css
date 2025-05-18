@@ -657,6 +657,38 @@ body {
   width: 100%;
 }
 
+#projects .card-title {
+  font-size: 2.5rem;
+  /* Adjust as needed */
+  font-weight: bold;
+}
+
+#projects .card-text {
+  font-size: 2.0rem;
+  /* Adjust as needed */
+}
+
+#projects .heading-sec__main {
+  font-size: 3.5rem;
+  /* Adjust as needed */
+}
+
+#projects .heading-sec__sub {
+  font-size: 2.3rem;
+  /* Adjust as needed */
+}
+
+#projects .badge {
+  font-size: 1.5rem;
+  /* Increase font size */
+  padding: 0.5rem 1rem;
+  /* Adjust padding for larger badges */
+  border-radius: 0.5rem;
+  /* Optional: make the corners more rounded */
+}
+
+
+
 @media (max-width: 1024px) {
   .wk-ipadp-1 {
     width: 8.333333%;
