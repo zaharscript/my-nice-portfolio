@@ -681,7 +681,7 @@ body {
 #projects .badge {
   font-size: 1.5rem;
   /* Increase font size */
-  padding: 0.5rem 1rem;
+  padding: 0.6rem 1rem;
   /* Adjust padding for larger badges */
   border-radius: 0.5rem;
   /* Optional: make the corners more rounded */
