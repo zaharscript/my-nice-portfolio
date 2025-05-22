@@ -657,6 +657,16 @@ body {
   width: 100%;
 }
 
+.badge-lg {
+  font-size: 1.5rem;
+  /* Increase font size */
+  padding: 0.6em 1em;
+  /* Add more padding */
+  border-radius: 0.7em;
+}
+
+
+
 #projects .card-title {
   font-size: 2.5rem;
   /* Adjust as needed */
